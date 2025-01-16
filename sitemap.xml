@@ -17,7 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <url>
     <loc>https://algorykaithan.github.io/Algory_kathain_Alrayad/marble.html</loc>
     <priority>0.8</priority>
   </url>
@@ -109,6 +108,5 @@
     <loc>https://algorykaithan.github.io/Algory_kathain_Alrayad/katchain21.html</loc>
     <priority>0.8</priority>
   </url>
-
-  <!-- كرر نفس التنسيق مع باقي الصفحات -->
 </urlset>
+
